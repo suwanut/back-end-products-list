@@ -12,7 +12,7 @@ Assignment Tests  จัดทำเว็บไซต์แสดงสิน�
 -   Node v18.15.0
 -   Git
 
-## Setup by step
+## คำแนะนำ
  - สร้าง โฟล์เดอร์โปรเจ็ค 
  > `mkdir product_api`
 - Clone the repo and install the dependencies.
@@ -24,7 +24,7 @@ Assignment Tests  จัดทำเว็บไซต์แสดงสิน�
 
 โปรเจ็คนี้ใช้ (package.json)
   
-     {
+          {
       "name": "product_api",
       "version": "1.0.0",
       "main": "index.js",
